@@ -1,0 +1,51 @@
+.title-lain,
+.title-legend {
+  font-weight: bolder
+}
+
+.leaflet-control-attribution {
+  display: none
+}
+
+.title-legend {
+  font-size: 20px;
+  text-align: center
+}
+
+.leaflet-control-layers-expanded,
+.title-lain {
+  font-size: 15px
+}
+
+.leaflet-right>.leaflet-control {
+  padding: 6px 10px 6px 6px
+}
+
+.leaflet-control-layers-toggle {
+  display: none !important
+}
+
+.leaflet-control-layers-overlays>label {
+  margin-bottom: 0
+}
+
+#map,
+body,
+html {
+  height: 100%;
+  margin: 0
+}
+
+.custom-popup table {
+  width: 100%
+}
+
+.custom-popup td,
+.custom-popup th {
+  text-align: left;
+  padding: 8px
+}
+
+.custom-popup th {
+  background-color: #f2f2f2
+}
